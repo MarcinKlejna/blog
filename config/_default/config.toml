@@ -1,11 +1,11 @@
-baseURL = "https://example.com"
-title = "Hugo Bootstrap"
+baseURL = "https://notatnik.netlify.app/"
+title = "NotatniK"
 theme = "hugo-theme-bootstrap"
-copyright = "Copyright © 2016-{year} Razon Yang. All Rights Reserved."
+copyright = "Copyright © 2020-{year} Marcin Klejna. All Rights Reserved."
 
 # Multilingual mode
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true # If you use only one language comment this option
+defaultContentLanguage = "pl"
+#defaultContentLanguageInSubdir = true # If you use only one language comment this option
 #disableLanguages = ["fr", "zh-cn" ,"zh-tw"] # For disable one or more language
 
 # Pagination
